@@ -1,0 +1,3 @@
+/Users/noahyik/Desktop/IronManProjects/MacGitTest/tictactoe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/noahyik/Desktop/IronManProjects/MacGitTest/tictactoe/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/noahyik/Desktop/IronManProjects/MacGitTest/tictactoe/cmake-build-debug/CMakeFiles/tictactoe.dir
