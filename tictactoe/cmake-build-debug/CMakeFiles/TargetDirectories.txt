@@ -1,3 +1,0 @@
-/mnt/d/I AM IRONMAN/Ironman_Projects/MacGitTest/tictactoe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/d/I AM IRONMAN/Ironman_Projects/MacGitTest/tictactoe/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/d/I AM IRONMAN/Ironman_Projects/MacGitTest/tictactoe/cmake-build-debug/CMakeFiles/tictactoe.dir

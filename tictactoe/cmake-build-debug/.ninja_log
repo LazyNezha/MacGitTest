@@ -1,7 +1,0 @@
-# ninja log v5
-0	105	1638794433961627716	CMakeFiles/tictactoe.dir/main.c.o	233802cf919c5ea6
-68	144	1638797033613928355	tictactoe	9356150ec0d9bbaa
-0	68	1638797033537852300	CMakeFiles/tictactoe.dir/game.c.o	beebbabe432850cb
-0	61	1638797255997732635	CMakeFiles/tictactoe.dir/game.c.o	b55ece4d9586004c
-0	61	1638797255998410432	CMakeFiles/tictactoe.dir/main.c.o	9a22e621d94ab289
-61	133	1638797256070094452	tictactoe	9356150ec0d9bbaa
