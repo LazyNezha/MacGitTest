@@ -1,4 +1,0 @@
-/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_C_COMPILER=/usr/bin/clang -G Ninja /Users/noahyik/Desktop/IronManProjects/MacGitTest/lotto
--- Configuring done
--- Generating done
--- Build files have been written to: /Users/noahyik/Desktop/IronManProjects/MacGitTest/lotto/cmake-build-debug
