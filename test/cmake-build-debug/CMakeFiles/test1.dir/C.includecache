@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/I AM IRONMAN/Ironman_Projects/test/test1/game.c
+game.h
+/mnt/d/I AM IRONMAN/Ironman_Projects/test/test1/game.h
+
+/mnt/d/I AM IRONMAN/Ironman_Projects/test/test1/game.h
+stdio.h
+-
+
